@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+		"guzzlehttp/oauth-subscriber": "*",
+		"kamermans/guzzle-oauth2-subscriber": "~1.0"
+    }
+}

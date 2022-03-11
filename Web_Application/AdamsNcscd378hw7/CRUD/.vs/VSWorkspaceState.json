@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Models",
+    "\\config",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\comics",
+    "\\resources\\views\\vendor"
+  ],
+  "SelectedNode": "\\app\\Http\\Controllers\\ComicsController.php",
+  "PreviewInSolutionExplorer": false
+}
