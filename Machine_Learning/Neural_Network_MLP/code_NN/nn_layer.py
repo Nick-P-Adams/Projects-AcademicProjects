@@ -2,9 +2,8 @@
 
 
 # Implementation of one layer used in the forward feeding and back propagation neural network 
-
 import numpy as np
-import math_util as mu
+import code_NN.math_util as mu
 
 class NeuralLayer:
     def __init__(self, d = 1, act = 'tanh'):

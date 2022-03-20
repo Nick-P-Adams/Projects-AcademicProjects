@@ -1,17 +1,9 @@
-# Place your EWU ID and name here
+# Nick Adams 00883496
 
 ## delete the `pass` statement in every function below and add in your own code. 
-
-
 import numpy as np
 
-
-
 # Various math functions, including a collection of activation functions used in NN.
-
-
-
-
 class MyMath:
 
     def tanh(x):
@@ -114,7 +106,7 @@ class MyMath:
             return: the numpy array where every element is the _relu_de_scaler of the corresponding element in x.   
         '''
         x = np.array(x)
-        _v_relu_de_scaler = np.vectorize(MyMath._relu_de_scaler(x))
+        _v_relu_de_scaler = np.vectorize(MyMath._relu_de_scaler)
         return _v_relu_de_scaler(x)
 
     
